@@ -1,0 +1,16 @@
+C:\Users\oxeek\source\repos\DataTask\DataTask\bin\Debug\DataTask.exe.config
+C:\Users\oxeek\source\repos\DataTask\DataTask\bin\Debug\DataTask.exe
+C:\Users\oxeek\source\repos\DataTask\DataTask\bin\Debug\DataTask.pdb
+C:\Users\oxeek\source\repos\DataTask\DataTask\obj\Debug\DataTask.csproj.AssemblyReference.cache
+C:\Users\oxeek\source\repos\DataTask\DataTask\obj\Debug\DataTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\oxeek\source\repos\DataTask\DataTask\obj\Debug\DataTask.csproj.CoreCompileInputs.cache
+C:\Users\oxeek\source\repos\DataTask\DataTask\obj\Debug\DataTask.exe
+C:\Users\oxeek\source\repos\DataTask\DataTask\obj\Debug\DataTask.pdb
+C:\Users\oxeek\Desktop\Защита ИНФ_ИИ\ПР1\DataTask\DataTask\bin\Debug\DataTask.exe.config
+C:\Users\oxeek\Desktop\Защита ИНФ_ИИ\ПР1\DataTask\DataTask\bin\Debug\DataTask.exe
+C:\Users\oxeek\Desktop\Защита ИНФ_ИИ\ПР1\DataTask\DataTask\bin\Debug\DataTask.pdb
+C:\Users\oxeek\Desktop\Защита ИНФ_ИИ\ПР1\DataTask\DataTask\obj\Debug\DataTask.csproj.AssemblyReference.cache
+C:\Users\oxeek\Desktop\Защита ИНФ_ИИ\ПР1\DataTask\DataTask\obj\Debug\DataTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\oxeek\Desktop\Защита ИНФ_ИИ\ПР1\DataTask\DataTask\obj\Debug\DataTask.csproj.CoreCompileInputs.cache
+C:\Users\oxeek\Desktop\Защита ИНФ_ИИ\ПР1\DataTask\DataTask\obj\Debug\DataTask.exe
+C:\Users\oxeek\Desktop\Защита ИНФ_ИИ\ПР1\DataTask\DataTask\obj\Debug\DataTask.pdb
